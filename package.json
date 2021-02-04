@@ -26,7 +26,7 @@
     "codacy-coverage": "^3.0.0",
     "codecov": "^3.0.0",
     "moment": "^2.18.1",
-    "request": "^2.81.0",
+    "request": "^2.88.2",
     "request-promise-native": "^1.0.3"
   },
   "devDependencies": {
